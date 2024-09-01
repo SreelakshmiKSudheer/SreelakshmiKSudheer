@@ -3,16 +3,23 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sreelakshmiksudheer&label=Profile%20views&color=0e75b6&style=flat" alt="sreelakshmiksudheer" /> </p>
 
-- 🔭 Currently exploring **innovative project ideas**
-
-- 🌱 Currently learning **Web Development and Deepening my Programming Skills**
-
-- ♟️ Passionate about **Programming**
-
-- 📫 How to reach me **SreelakshmiKavenge3i3@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1gQf-tTkfJoGCC2xxiAMfJjkFH0oZxdvR/view?usp=drive_link](https://drive.google.com/file/d/1gQf-tTkfJoGCC2xxiAMfJjkFH0oZxdvR/view?usp=drive_link)
-
+<ul>
+  <li>
+    🔭 Currently exploring innovative project ideas
+  </li>
+  <li>
+    🌱 Currently learning Web Development and Deepening my Programming Skills
+  </li>
+  <li>
+    ♟️ Passionate about Programming
+  </li>
+  <li>
+    📫 How to reach me <a href="mailto:SreelakshmiKavenge3i3@gmail.com">Sreelakshmi K</a>
+  </li>
+  <li>
+    📄 Know about my experiences <a href="https://drive.google.com/file/d/1gQf-tTkfJoGCC2xxiAMfJjkFH0oZxdvR/view?usp=drive_link">resume</a>
+  </li>
+</ul>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sreelakshmi~k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sreelakshmi~k" height="30" width="40" /></a>
